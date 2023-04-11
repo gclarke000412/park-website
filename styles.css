@@ -1,0 +1,9 @@
+body{
+    background-color: #81ABBC !important;
+    text-align: center !important;
+}
+
+.park-map{
+    position: relative;
+    scale: 90%;
+}
