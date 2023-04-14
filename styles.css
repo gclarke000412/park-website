@@ -7,3 +7,30 @@ body{
     position: relative;
     scale: 90%;
 }
+
+.landscape{
+    width: 90%;
+    padding: 16px 0;
+    border-radius: 35px;
+
+}
+
+.hiking{
+    width: 90%;
+    padding: 16px 0;
+    border-radius: 35px;
+
+}
+
+.trees{
+    width: 90%;
+    padding: 16px 0;
+    border-radius: 35px;
+
+}
+
+.playground{
+    width: 90%;
+    padding: 16px 0;
+    border-radius: 35px;
+}
